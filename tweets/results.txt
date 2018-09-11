@@ -1,0 +1,24 @@
+1.    How many tweets have lang = “ru” (use the Russian language)? 
+     299
+2.    How many tweets are from August 2016? 
+       0
+3.    How many tweets contain a retweet (start with “RT”)? 
+   29228
+4.    How many tweets mention #gameofthrones? 
+       4
+1.    How many tweets have lang = “ru” (use the Russian language)? 
+     299
+2.    How many tweets are from August 2016? 
+       0
+3.    How many tweets contain a retweet (start with “RT”)? 
+   29228
+4.    How many tweets mention #gameofthrones? 
+       4
+1.    How many tweets have lang = “ru” (use the Russian language)? 
+     299
+2.    How many tweets are from August 2016? 
+       0
+3.    How many tweets contain a retweet (start with “RT”)? 
+   29228
+4.    How many tweets mention #gameofthrones? 
+       4
